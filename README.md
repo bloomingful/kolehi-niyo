@@ -35,4 +35,6 @@ Once your device or emulator is connected and recognized by Android Studio, in t
     $ flutter packages get
     $ flutter run
 
-#### Alternatively, if you prefer to install the full .apk package for your Android device, visit the [releases](https://github.com/bluemberg/kolehi-niyo/releases) page and download the a) .apk compatible with your device's CPU architecture or b) the universal .apk (with -universal suffix) compatible with all Android architectures.
+Alternatively, if you prefer to install the full .apk package for your Android device, visit the [releases](https://github.com/bluemberg/kolehi-niyo/releases) page and download the a) .apk compatible with your device's CPU architecture or b) the universal .apk (with -universal suffix) compatible with all Android architectures.
+
+**Note**: Make sure to have an internet connection when running the application, as some of its assets, such as images, are pulled from Internet web sources.
