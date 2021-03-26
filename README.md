@@ -1,6 +1,6 @@
 # Kolehi-Niyo
 
-An Android application project made by team Green Squad with Google's Flutter for Diliman Solutions Challenge '21.
+A mobile application project made by team Green Squad with Google's Flutter for Diliman Solutions Challenge '21.
 
 ## Screenshots
 
@@ -28,11 +28,11 @@ Visit Flutter's [official guide](https://flutter.dev/docs/get-started/install/wi
 
 ## Installation
 
-Once your Android device or emulator is connected and recognized by Android Studio, in the command terminal, run the following commands:
+Once your device or emulator is connected and recognized by Android Studio, in the command terminal, run the following commands:
 
     $ git clone https://github.com/bluemberg/kolehi-niyo.git kolehi-niyo
     $ cd kolehi-niyo/
     $ flutter packages get
     $ flutter run
 
-#### Alternatively, if you prefer to install the full .apk package, visit the [releases](https://github.com/bluemberg/kolehi-niyo/releases) page and download the a) .apk compatible with your device's CPU architecture or b) the universal .apk (with -universal suffix) compatible with all Android architectures.
+#### Alternatively, if you prefer to install the full .apk package for your Android device, visit the [releases](https://github.com/bluemberg/kolehi-niyo/releases) page and download the a) .apk compatible with your device's CPU architecture or b) the universal .apk (with -universal suffix) compatible with all Android architectures.
