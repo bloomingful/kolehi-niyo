@@ -12,6 +12,8 @@ A mobile application project made by team Green Squad with Google's Flutter for 
 
 <img src="screengrabs/classes.jpg" width="250"/> <img src="screengrabs/user_profile.jpg" width="250"/> <img src="screengrabs/settings.jpg" width="250"/>
 
+**A full wireframe prototype is also provided at Figma in this [link](https://www.figma.com/file/W0krbAR0KCfsz4HuQeHbBv/Kolehi-Niyo?node-id=221%3A119).**
+
 ## Author(s)
 **Ashley Valerie J. Go**\
 **Blooming Dan A. Moneda**\
