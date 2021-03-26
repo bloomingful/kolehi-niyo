@@ -13,9 +13,9 @@ A Flutter prototype made by Green Squad for Diliman Solutions Challenge '21.
 <img src="screenshots/classes.jpg" width="250"/> <img src="screenshots/user_profile.jpg" width="250"/> <img src="screenshots/settings.jpg" width="250"/>
 
 ## Author(s)
-**Ashley Valerie J. Go**
-**Blooming Dan A. Moneda**
-**Renz Samuel G. Gutierrez**
+**Ashley Valerie J. Go**\
+**Blooming Dan A. Moneda**\
+**Renz Samuel G. Gutierrez**\
 
 ## Getting Started
 
